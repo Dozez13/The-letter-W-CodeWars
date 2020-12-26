@@ -59,6 +59,7 @@ namespace The_deaf_rats_of_hamelin
 
             }
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
             Console.ReadKey();
            
 
