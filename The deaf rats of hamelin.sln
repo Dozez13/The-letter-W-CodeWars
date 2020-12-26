@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The deaf rats of hamelin", "The deaf rats of hamelin\The deaf rats of hamelin.csproj", "{2D329A3E-3EE3-404F-B25D-3D2A30A686AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D329A3E-3EE3-404F-B25D-3D2A30A686AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D329A3E-3EE3-404F-B25D-3D2A30A686AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D329A3E-3EE3-404F-B25D-3D2A30A686AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D329A3E-3EE3-404F-B25D-3D2A30A686AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8432B28A-D4A3-48C2-B666-2F58BBC414EA}
+	EndGlobalSection
+EndGlobal
